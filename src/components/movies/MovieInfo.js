@@ -50,7 +50,7 @@ const MovieInfo = props => {
               //  (!movie.moive.genres[movie.moive.genres-1] ? movie.moive.genres.map(item => item.name +" ," ) ))
               } 
                </li>
-              <li class="list-group-item">Budget: {movie.movie.budget}</li>
+              <li class="list-group-item">Budget: {movie.movie.budget}$</li>
             </ul>
           </div>
         </div>
